@@ -269,12 +269,16 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "KMeans_Clustering",
+        name: "BagofWords",
         color: "green-text-gradient",
       },
       {
-        name: "matplotlib",
+        name: "Fuzzyword",
         color: "pink-text-gradient",
+      },
+      {
+        name: "Random_Forest",
+        color: "blue-text-gradient",
       },
     ],
     image: tripguide,
