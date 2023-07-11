@@ -48,7 +48,6 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
         style={{textAlign : "justify"}}
       >
-        Overview:
 I am a highly motivated recent graduate from IIT Dhanbad with an MSc in Mathematics and Computing, 
 specializing in Data Analysis. My projects in machine learning and PowerBI have equipped me with 
         practical skills in data analysis and visualization. Additionally, I possess a proficiency 
