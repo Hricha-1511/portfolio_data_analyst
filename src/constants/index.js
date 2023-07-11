@@ -260,9 +260,9 @@ const projects = [
     source_code_link: "https://github.com/Hricha-1511/Movie_Recommendation_Project",
   },
   {
-    name: "Iris_Dataset KMeans_Clustering",
+    name: "Detecting Pair of Duplicate Questions",
     description:
-      "Implementing KMeans Clustering over Iris dataset which offers a valuable tool for exploratory data analysis, pattern recognition, and classification tasks in machine learning.",
+      "This Project uses Quora's dataset in which we have to tell whether a given pair of question is duplicate or not. I used Random Forest and XGboost Model. To solve the problem I used concepts like BagofWords, Fuzzywords and also did some feature engineering to maximize",
     tags: [
       {
         name: "Machine Learning",
