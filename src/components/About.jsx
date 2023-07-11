@@ -46,15 +46,19 @@ const About = () => {
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+        style={{textAlign : "justify"}}
       >
-        I am a highly motivated MSc graduate in Mathematics and Computing, 
-        specializing in Data Analysis. Proficient in SQL, machine learning, 
-        and Python, with a focus on data visualization using libraries like 
-        NumPy and Pandas. Experienced in projects involving ML-based phishing 
-        website detection and movie recommendation systems. Strong academic 
-        record with certifications in Machine Learning, C++, and SQL. 
-        Excellent communication and project management skills. 
-        Eager to contribute as a Data Analyst, leveraging analytical expertise to drive data-driven insights.
+        Overview:
+I am a highly motivated recent graduate from IIT Dhanbad with an MSc in Mathematics and Computing, 
+specializing in Data Analysis. My projects in machine learning and PowerBI have equipped me with 
+        practical skills in data analysis and visualization. Additionally, I possess a proficiency 
+        in MySQL for working with databases and performing data extraction and transformation tasks. 
+        With a strong mathematical background, I can derive meaningful insights from data and make data-driven decisions.
+<br/><br/>
+As a fresher, I am eager to apply my skills and contribute to a dynamic and challenging environment. 
+        I am seeking opportunities to leverage my expertise in data analysis, machine learning, statistical understanding, 
+        and web development to drive data-informed decision-making and deliver valuable insights. With certifications in Machine Learning, 
+        C++, and SQL, along with excellent communication and project management skills, I am ready to make a positive impact as a Data Analyst.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
