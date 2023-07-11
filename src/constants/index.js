@@ -282,7 +282,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/Hricha-1511/-IrisDataset-KMeansClustering",
+    source_code_link: "https://github.com/Hricha-1511/Duplicate-quetion-detection",
   },
 ];
 
