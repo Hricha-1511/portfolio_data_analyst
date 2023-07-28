@@ -40,7 +40,7 @@ const FeedbackCard = ({
         /> */}
       </div>
       <br/>
-      <a href={image} className='text-secondary text-[16px] font-semibold pink-text-gradient'>Click for Certificate</a> 
+      <a href={image} target="_blank" className='text-secondary text-[16px] font-semibold pink-text-gradient'>Click for Certificate</a> 
     </div>
   </motion.div>
 );
